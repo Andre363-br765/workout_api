@@ -51,3 +51,4 @@ Acesse a documentação interativa em: http://127.0.0.1:8000/docs
 - FastAPI Pagination: https://uriyyo-fastapi-pagination.netlify.app/
 # workout_api
 # workout_api
+# workout_api
